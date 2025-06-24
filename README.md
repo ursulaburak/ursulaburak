@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ursulaburak&label=Profile%20views&color=0e75b6&style=flat" alt="ursulaburak" /> </p>
 
-- 🔭 I’m Front-end Developer
+- 🔭 I’m a Front-end Developer
 
 - 🌱 I’m currently learning **React, React Native, Next.JS**
 
