@@ -4,7 +4,7 @@
 
 #
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erhanalgl&label=Profile%20views&color=0e75b6&style=flat" alt="erhanalgl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ursulaburak&label=Profile%20views&color=0e75b6&style=flat" alt="ursulaburak" /> </p>
 
 - 🔭 I’m Front-end Developer
 
