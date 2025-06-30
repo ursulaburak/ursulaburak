@@ -13,7 +13,9 @@
 
 
 
-# Contact Me
+# Connect with me:
+
+<a href=" https://www.instagram.com/d_artagnan.79/ ">   <img height="50" src=" https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png "/> </a>
 
 - :email: <span style="font-weight: bolder">Email</span> : burakavclar4793@hotmail.com.tr
 - :link: <span style="font-weight: bolder">Linkedin</span> : [https://www.linkedin.com/](https://www.linkedin.com/in/burak-avcilar-abb14830b/)
