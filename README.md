@@ -10,6 +10,10 @@
 
 - 🌱 I’m currently learning **React, React Native, Next.JS**
 
+- 💬 Ask me about **javascript**
+
+- 📫 How to reach me **burakkavcilar@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/burakavcilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erhan-algül" height="30" width="40" /></a>
