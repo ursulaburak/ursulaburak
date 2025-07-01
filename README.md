@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **React, React Native, Next.JS**
 
+- - 📫 How to reach me **linkedin.com/burakavcilar**
+
 
 # Tools 
 <h3 align="left">Languages and Tools:</h3>
