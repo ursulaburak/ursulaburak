@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **javascript**
 
-- 📫 How to reach me **burakkavcilar@gmail.com**
+- 📮 My posts are available at https://medium.com/@itsburakavcilar
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
