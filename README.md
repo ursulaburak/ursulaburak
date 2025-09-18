@@ -8,7 +8,7 @@
 
 - 🔭 I’m a Front-end Developer
 
-- 🌱 I’m currently learning **React, React Native, Next.JS**
+- 🌱 I’m currently learning **Spring-Boot, Java**
 
 - 💬 Ask me about **javascript**
 
