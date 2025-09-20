@@ -8,9 +8,9 @@
 
 - 🔭 I’m a Front-end Developer
 
-- 🌱 I’m currently learning **Spring-Boot, Java**
+- 🌱 I’m currently learning **Spring-Boot, Java and Scala**
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **Javascript ES6**
 
 - 📮 My posts are available at https://medium.com/@itsburakavcilar
 
