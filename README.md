@@ -6,12 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ursulaburak&label=Profile%20views&color=0e75b6&style=flat" alt="ursulaburak" /> </p>
 
-- 🔭 I’m a Front-end Developer
-
-- 🌱 I’m currently learning **Spring-Boot, Java and Scala**
-
-- 💬 Ask me about **Javascript ES6**
-
 - 📮 My posts are available at https://medium.com/@itsburakavcilar
 
 <h3 align="left">Connect with me:</h3>
