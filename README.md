@@ -1,6 +1,6 @@
 # Hi there! I'm Burak
 
-
+![Image](https://github.com/user-attachments/assets/f7212f28-83c6-416b-b2e0-ec02c05b71c9)
 
 ```
 export function ComputerProgrammer () {
