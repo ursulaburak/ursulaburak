@@ -1,7 +1,5 @@
 # Hi there! I'm Burak
 
-![Image](https://github.com/user-attachments/assets/6ca285f4-fdb9-41c7-9743-366f70203452)
-
 ```
 export function ComputerProgrammer () {
 const me = {
