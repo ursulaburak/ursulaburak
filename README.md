@@ -4,7 +4,7 @@
 export function ComputerProgrammer () {
 const me = {
 role: "Frontend Developer",
-code: ["JavaScript", "React", "HTML", "CSS", "Vue.js"],
+code: ["JavaScript", "React", "Next.js", "Vue.js"],
 knowledge_base: [
 "Software Engineering",
   ]
