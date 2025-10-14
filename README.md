@@ -14,7 +14,7 @@ knowledge_base: [
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ursulaburak&label=Profile%20views&color=0e75b6&style=flat" alt="ursulaburak" /> </p>
 
-- Now I'm learning Python.
+- Visit my posts page: https://medium.com/@itsburakavcilar
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
