@@ -20,7 +20,9 @@ knowledge_base: [
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://gitlab.com/cronos_devops" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="orphans-devops" height="30" width="40" /></a> 
+<a href="https://gitlab.com/cronos_devops" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="orphans-devops" height="30" width="40" /></a> <a href="https://vizhub.com/ursulaburak" target="blank">
+  <img align="center" src="https://vizhub.com/favicon.ico" alt="ursulaburak-vizhub" height="30" width="40" />
+</a>
 </p>
 
 
